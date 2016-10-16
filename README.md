@@ -4,7 +4,7 @@ This is just a reference InputManager.asset file for Xbox controller on Unity.
 
 I find it useful for reminding me value ranges for axis and mappings of the buttons (to KeyCode's in Unity). 
   
-![](./ScreenCap.png)
+![](https://github.com/jaimerodriguez/xboxcontroller/blob/master/ScreenCap.PNG)
 
 
 ### Usage Tips:
